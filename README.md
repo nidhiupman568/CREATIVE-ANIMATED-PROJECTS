@@ -2,6 +2,8 @@
 
 🎉 Hi there! I'm excited to share my learning journey with **HTML** 📝, **CSS** 🎨, and **JavaScript** 💻. During my initial days of learning web development, I created several small projects to understand how these technologies work together. From building websites 🌐 and creating games 🎮 to designing footers 🔻, navigation bars 🧭, button animations 🔲, and sign-in forms 🔑 and many more, I've explored it all. Using these skills, I have progressed to developing larger and more complex websites. 🚀
 
+Project Demo: https://nidhiupman568.github.io/CREATIVE-ANIMATED-PROJECTS/
+
 ## 🚀 Projects Showcase 🚀
 
 ### 🌐 Website Components 🌐
